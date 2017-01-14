@@ -7,7 +7,6 @@ Hemos creado unos elementos para [Polymer](https://www.polymer-project.org/1.0/)
 de widgets en una pagina web.
 
 ## Mas info
-Para ver mas informacion, documentacion y demos de estos elementos dirijase aqui: *OOOps parece ser que web  components todavia no
-ha publicado los elementos en su plataforma, vuelve otro dia.*
+Para ver mas informacion, documentacion y demos de estos elementos dirijase aqui: https://beta.webcomponents.org/element/eiwos/eiwos-widgets
 
 Para ver el codigo fuente y documentacion de los elementos dirijase al github: https://github.com/eiwos/eiwos-widgets
